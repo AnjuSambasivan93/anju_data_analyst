@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Wrangling Task- Comparison of Cylindar Count to Engine
+- <b>Data Wrangling Task 1 - Comparison of Cylindar Count to Engine
 Displacement </b>
   - [Cylinders vs Displacement](https://github.com/AnjuSambasivan93/Cylinders_vs_Displacement)
 
