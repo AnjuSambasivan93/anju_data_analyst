@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Wrangling Task- Comparison of Cylindar Count to Engine
+Displacement </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> Certifications </h2>
