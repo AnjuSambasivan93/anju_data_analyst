@@ -4,7 +4,7 @@
 
 - <b>Data Wrangling Task- Comparison of Cylindar Count to Engine
 Displacement </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cylinders vs Displacement](https://github.com/AnjuSambasivan93/Cylinders_vs_Displacement)
 
 <h2> Certifications </h2>
 
