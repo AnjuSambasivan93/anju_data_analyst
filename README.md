@@ -6,8 +6,8 @@
 Displacement </b>
   - [Cylinders vs Displacement](https://github.com/AnjuSambasivan93/Cylinders_vs_Displacement)
     
-- <b>Data Wrangling Task 2 -  Tidyverse & Data Table </b>
-- [Average Airline Delay Analysis with nycflights13 Dataset](
+- <b>Data Wrangling Task 2 - Average Airline Delay Analysis with nycflights13 Dataset  </b>
+- [Tidyverse & Data Table](
   
 <h2> Certifications </h2>
 
