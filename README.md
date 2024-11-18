@@ -12,7 +12,7 @@ Displacement </b>
 - <b>Data Wrangling Task 3 - Evaluating Support for Cannabis Legalization:2020 Referendum Analysis </b>
   - [Imputation](https://github.com/AnjuSambasivan93/Imputation)
   
-<h2> Certifications </h2>
+<!-- <h2> Certifications </h2> -->
 
 
 
