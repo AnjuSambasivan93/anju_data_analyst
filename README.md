@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Wrangling Task 1 - Comparison of Cylindar Count to Engine
-Displacement </b>
+- <b>Data Wrangling Task 1 - Comparison of Cylindar Count to Engine Displacement </b>
   - [Cylinders vs Displacement](https://github.com/AnjuSambasivan93/Cylinders_vs_Displacement)
     
 - <b>Data Wrangling Task 2 - Average Airline Delay Analysis with nycflights13 Dataset  </b>
@@ -12,15 +11,11 @@ Displacement </b>
 - <b>Data Wrangling Task 3 - Evaluating Support for Cannabis Legalization:2020 Referendum Analysis </b>
   - [Imputation](https://github.com/AnjuSambasivan93/Imputation)
 
- - <b>Data Wrangling Task 4 - Web Scraping Reviews From The Uber EatsPage on Trustpilot </b>
-  - [Imputation](https://github.com/AnjuSambasivan93/Web-Scraping/tree/main )
+- <b>Data Wrangling Task 4 - Web Scraping Reviews From The Uber EatsPage on Trustpilot </b>
+  - [Web Scraping](https://github.com/AnjuSambasivan93/Web-Scraping/tree/main )
     
   
 <!-- <h2> Certifications </h2> -->
-
-
-
-https://github.com/AnjuSambasivan93/Web-Scraping/tree/main 
 
 
 <h2> 🤳 Connect with me:</h2>
