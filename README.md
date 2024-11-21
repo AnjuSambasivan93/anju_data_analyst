@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Wrangling Task 1 - Comparison of Cylindar Count to Engine Displacement </b>
-  - [Cylinders vs Displacement](https://github.com/AnjuSambasivan93/Cylinders_vs_Displacement)
+  - [Grouping and Summarizing Data](https://github.com/AnjuSambasivan93/Cylinders_vs_Displacement)
     
 - <b>Data Wrangling Task 2 - Average Airline Delay Analysis with nycflights13 Dataset  </b>
   - [Tidyverse & Data Table](https://github.com/AnjuSambasivan93/Tidyverse-DataTables)
