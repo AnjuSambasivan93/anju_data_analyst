@@ -15,7 +15,11 @@
   - [Web Scraping](https://github.com/AnjuSambasivan93/Web-Scraping/tree/main )
     
 - <b>Data Wrangling Task 5 - Geospatial Data Visualization in R: Mapping New Zealand with Leaflet and sf </b>
-  - [GIS with leaflet & sf in R](https://github.com/AnjuSambasivan93/GIS-with-leaflet-sf-in-R/tree/main)  
+  - [GIS with leaflet & sf in R](https://github.com/AnjuSambasivan93/GIS-with-leaflet-sf-in-R/tree/main)
+
+- <b>Data Wrangling Task 6 - SQL and R Integration for Inventory Analysis:A Case Study of R-Rated Movies in DVDRental Stor </b>
+  - [SQL in R](https://github.com/AnjuSambasivan93/SQL-in-R/tree/main)
+  
 <!-- <h2> Certifications </h2> -->
 
 
