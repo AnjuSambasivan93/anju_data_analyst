@@ -24,9 +24,9 @@
   - [Simple Linear Regression](https://github.com/AnjuSambasivan93/Linear-Regression/tree/main)
  
 - <b> Data Science Task 2 - Crime Trends in New Zealand: An Analysis of Demographics and Offense Types </b>
-  - [Visualization](https://github.com/AnjuSambasivan93/Linear-Regression/tree/main)
+  - [Visualization](https://github.com/AnjuSambasivan93/Crime-Analysis-in-New-Zealand)
      
-https://github.com/AnjuSambasivan93/Crime-Analysis-in-New-Zealand
+
 
 
 
