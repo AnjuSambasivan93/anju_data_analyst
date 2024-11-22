@@ -21,9 +21,12 @@
   - [SQL in R](https://github.com/AnjuSambasivan93/SQL-in-R/tree/main)
  
 - <b> Data Science Task 1 - Analyzing the Relationship Between CarWeight and Mileage Using Linear Regression </b>
-  - [Simple Linear Regression](https://github.com/AnjuSambasivan93/Linear-Regression/tree/main
-)
-
+  - [Simple Linear Regression](https://github.com/AnjuSambasivan93/Linear-Regression/tree/main)
+ 
+- <b> Data Science Task 2 - Crime Trends in New Zealand: An Analysis of Demographics and Offense Types </b>
+  - [Visualization](https://github.com/AnjuSambasivan93/Linear-Regression/tree/main)
+     
+https://github.com/AnjuSambasivan93/Crime-Analysis-in-New-Zealand
 
 
 
