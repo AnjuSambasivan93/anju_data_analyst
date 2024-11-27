@@ -26,7 +26,8 @@
 - <b> Data Science Task 2 - Crime Trends in New Zealand: An Analysis of Demographics and Offense Types </b>
   - [Visualization](https://github.com/AnjuSambasivan93/Crime-Analysis-in-New-Zealand)
      
-
+- <b> Business Intelligence Task 1 - Diamond Price Analysis: A Comprehensive Study Using Multiple Linear Regression </b>
+  - [Multiple Linear Regression](https://github.com/AnjuSambasivan93/Multiple-Linear-Regression/tree/main)
 
 
 
