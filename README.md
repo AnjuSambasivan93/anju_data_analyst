@@ -29,6 +29,8 @@
 - <b> Business Intelligence Task 1 - Diamond Price Analysis: A Comprehensive Study Using Multiple Linear Regression </b>
   - [Multiple Linear Regression](https://github.com/AnjuSambasivan93/Multiple-Linear-Regression/tree/main)
 
+- <b> Business Intelligence Task 2 - Crime Prediction with Random Forest:Improving Law Enforcement with Data </b>
+  - [Random Forest Classification](n)
 
 
 
