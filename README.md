@@ -31,6 +31,10 @@
 
 - <b> Business Intelligence Task 2 - Crime Prediction with Random Forest:Improving Law Enforcement with Data </b>
   - [Random Forest Classification](https://github.com/AnjuSambasivan93/Random-Forest-Classification/tree/main)
+ 
+- <b> Business Intelligence Task 3 - Essential R: Data Analysis, Visualization, and Modeling </b>
+  - [Essential R](https://github.com/AnjuSambasivan93/R-Essentials/tree/main)
+ 
 
 
 
