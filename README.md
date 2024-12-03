@@ -1,6 +1,6 @@
 <h1>Hi, I'm Anju! <br/></h1>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2> 👩‍💻 Data Science Projects:</h2>
 
 - <b>Data Wrangling Task 1 - Comparison of Cylindar Count to Engine Displacement </b>
   - [Grouping and Summarizing Data](https://github.com/AnjuSambasivan93/Cylinders_vs_Displacement)
