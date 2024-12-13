@@ -20,6 +20,9 @@
 - <b>Data Wrangling Task 6 - SQL and R Integration for Inventory Analysis: A Case Study of R-Rated Movies in DVDRental Stores </b>
   - [SQL in R](https://github.com/AnjuSambasivan93/SQL-in-R/tree/main)
  
+- <b>Data Wrangling Task 7 - From Data to Action: Improving Roadwork Scheduling in High-Traffic Areas </b>
+  - [Project: Improving-Roadwork-Scheduling](https://github.com/AnjuSambasivan93/Improving-Roadwork-Scheduling)
+ 
 - <b> Data Science Task 1 - Analyzing the Relationship Between CarWeight and Mileage Using Linear Regression </b>
   - [Simple Linear Regression](https://github.com/AnjuSambasivan93/Linear-Regression/tree/main)
  
