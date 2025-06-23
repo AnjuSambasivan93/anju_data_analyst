@@ -51,13 +51,6 @@
 - <b> Data Mining - RGB-Based Color Classification: A QDA vs k-NN Study</b>  
   - [QDA and k-NN](https://github.com/AnjuSambasivan93/RGB-Based-Color-Classification-A-QDA-vs-k-NN-Study)
 
-<h2> 👩‍💻 Power BI Projects:</h2>
-
-
-
-
-
-
 <h2> 🤳 Connect with me:</h2>
 
 
