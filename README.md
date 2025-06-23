@@ -1,4 +1,5 @@
 <h1>Hi, I'm Anju! <br/></h1>
+<p>I’m a data science enthusiast with hands-on experience in regression, classification, clustering, SQL, web scraping, and geospatial visualization. Below is a collection of my practical projects.</p>
 
 <h2> 👩‍💻 Data Science Projects:</h2>
 
