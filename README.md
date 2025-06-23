@@ -39,16 +39,16 @@
   - [Essential R](https://github.com/AnjuSambasivan93/R-Essentials/tree/main)
 
 - <b> Big Data - Regression Models for Property Price – Stepwise & Regularization Methods</b>  
-  - [Link to project](https://github.com/AnjuSambasivan93/Regression-Models-for-Property-Price-Stepwise-Regularization)
+  - [Lasso, Ridge, ElasticNet, Stepwise](https://github.com/AnjuSambasivan93/Regression-Models-for-Property-Price-Stepwise-Regularization)
 
 - <b> Data Mining - K-means and GMM Based Clustering of Seed Morphological Features</b>  
-  - [Link to project](https://github.com/AnjuSambasivan93/K-means-and-GMM-Based-Clustering-of-Seed-Morphological-Features)
+  - [K-means and GMM](https://github.com/AnjuSambasivan93/K-means-and-GMM-Based-Clustering-of-Seed-Morphological-Features)
 
 - <b> Data Mining - Possum Age Prediction Using Multiple Linear Regression</b>  
-  - [Link to project](https://github.com/AnjuSambasivan93/Possum-Age-Prediction-Multiple-Linear-Regression)
+  - [MLR](https://github.com/AnjuSambasivan93/Possum-Age-Prediction-Multiple-Linear-Regression)
 
 - <b> Data Mining - RGB-Based Color Classification: A QDA vs k-NN Study</b>  
-  - [Link to project](https://github.com/AnjuSambasivan93/RGB-Based-Color-Classification-A-QDA-vs-k-NN-Study)
+  - [QDA and k-NN](https://github.com/AnjuSambasivan93/RGB-Based-Color-Classification-A-QDA-vs-k-NN-Study)
 
 <h2> 👩‍💻 Power BI Projects:</h2>
 
