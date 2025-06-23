@@ -37,7 +37,10 @@
  
 - <b> Business Intelligence Task 3 - Essential R: Data Analysis, Visualization, and Modeling </b>
   - [Essential R](https://github.com/AnjuSambasivan93/R-Essentials/tree/main)
- 
+
+- <b> Data Mining Task 1 - </b>
+  - [Essential R](https://github.com/AnjuSambasivan93/R-Essentials/tree/main)
+   
 
 <h2> 👩‍💻 Power BI Projects:</h2>
 
