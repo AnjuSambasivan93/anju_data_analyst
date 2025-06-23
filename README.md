@@ -1,5 +1,5 @@
 <h1>Hi, I'm Anju! <br/></h1>
-<p>I’m a data science enthusiast with hands-on experience in regression, classification, clustering, SQL, web scraping, and geospatial visualization. Below is a collection of my practical projects.</p>
+<p> I’m passionate about solving real-world problems through data. My work combines data wrangling, statistical modeling, machine learning, and clear visual communication to uncover insights and drive informed decisions. From regression and classification to clustering, and spatial analysis, I enjoy exploring data from all angles. Below is a selection of projects that reflect my hands-on experience and curiosity.</p>
 
 <h2> 👩‍💻 Data Science Projects:</h2>
 
